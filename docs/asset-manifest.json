@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "./static/css/main.0d66ac26.css",
+    "main.js": "./static/js/main.d3cccbd1.js",
+    "static/js/453.2a82e7ac.chunk.js": "./static/js/453.2a82e7ac.chunk.js",
+    "static/media/meru_icon.png": "./static/media/meru_icon.77c985d29c625754be25.png",
+    "static/media/linkedin_icon.png": "./static/media/linkedin_icon.bd79a82fc857836900a6.png",
+    "index.html": "./index.html",
+    "main.0d66ac26.css.map": "./static/css/main.0d66ac26.css.map",
+    "main.d3cccbd1.js.map": "./static/js/main.d3cccbd1.js.map",
+    "453.2a82e7ac.chunk.js.map": "./static/js/453.2a82e7ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d66ac26.css",
+    "static/js/main.d3cccbd1.js"
+  ]
+}
